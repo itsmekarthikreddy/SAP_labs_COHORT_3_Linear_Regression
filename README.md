@@ -101,9 +101,6 @@ Short interpretation / business implications
    - jupyter lab   (or `jupyter notebook`)
    - Run cells top → bottom to reproduce the analysis.
 
-Alternative (run script):
-- A script version exists (upgrad_boom_bikes.py). Run with the same virtual environment:
-  - python upgrad_boom_bikes.py
 
 ## Dependencies
 - Python 3.10+  
